@@ -1,0 +1,282 @@
+[
+  {
+    "total_votes": 1966,
+    "total_reviews": 827,
+    "total_cost": 119,
+    "payment_methods": {
+      "card": true,
+      "cash": false,
+      "upi": false
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-qnsA9D31Wc85icjnQhuftMCUY-VCiIYPJeoSmrM6r17Ud4-Pyj4n2hUi5Jcc9rr1mb0&usqp=CAU",
+    "rating": 4.0,
+    "name": "Blue Moon Premium"
+  },
+  {
+    "total_votes": 1268,
+    "total_reviews": 209,
+    "total_cost": 306,
+    "payment_methods": {
+      "card": false,
+      "cash": true,
+      "upi": true
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJbWQ0CswyNXyobmj1uNjaXt_jqDt3vtCtwJxNaDmidYDf3tzC-GtNyERkaMHXBGgw-qE&usqp=CAU",
+    "rating": 4.6,
+    "name": "Swasti Premium"
+  },
+  {
+    "total_votes": 641,
+    "total_reviews": 579,
+    "total_cost": 899,
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi": false
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRATHpg2AK8f7Nt99hX7_B4o_zLb9IbJEXtmANUMo_UnJyZBJDGkNAL5xEZNcxNyfayj3g&usqp=CAU",
+    "rating": 3.5,
+    "name": "Hilton Resto"
+  },
+  {
+    "total_votes": 1258,
+    "total_reviews": 311,
+    "total_cost": 153,
+    "payment_methods": {
+      "card": false,
+      "cash": false,
+      "upi": true
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "url": "https://doctortaz.com/wp-content/uploads/2017/05/Cinco-de-Mayo-.jpg",
+    "rating": 1.5,
+    "name": "Sidharth Hotel"
+  },
+  {
+    "total_votes": 721,
+    "total_reviews": 756,
+    "total_cost": 239,
+    "payment_methods": {
+      "card": false,
+      "cash": true,
+      "upi": false
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "url": "https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "rating": 4.1,
+    "name": "The New Marion"
+  },
+  {
+    "total_votes": 718,
+    "total_reviews": 987,
+    "total_cost": 597,
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi": true
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "url": "https://media.istockphoto.com/photos/delicious-meal-picture-id1295387240?b=1&k=20&m=1295387240&s=170667a&w=0&h=KtWYFjSBgpNgVkE3P-WKZ2F6V-VxyUBBtJIP_k8IANM=",
+    "rating": 2.7,
+    "name": "Crown"
+  },
+  {
+    "total_votes": 1013,
+    "total_reviews": 897,
+    "total_cost": 204,
+    "payment_methods": {
+      "card": true,
+      "cash": false,
+      "upi": true
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTz3dYzU_Zr5lKiJHlqKFzsSJZz7p5tdtOs7tKJWW0UOUR9LPP8nRToRHcAb0Bg3-gzzs&usqp=CAU",
+    "rating": 1.9,
+    "name": "Lemon Hotel"
+  },
+  {
+    "total_votes": 1227,
+    "total_reviews": 225,
+    "total_cost": 497,
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi": false
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTz3dYzU_Zr5lKiJHlqKFzsSJZz7p5tdtOs7tKJWW0UOUR9LPP8nRToRHcAb0Bg3-gzzs&usqp=CAU",
+    "rating": 4.8,
+    "name": "Empire Hotel"
+  },
+  {
+    "total_votes": 1183,
+    "total_reviews": 769,
+    "total_cost": 410,
+    "payment_methods": {
+      "card": true,
+      "cash": false,
+      "upi": true
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTz3dYzU_Zr5lKiJHlqKFzsSJZz7p5tdtOs7tKJWW0UOUR9LPP8nRToRHcAb0Bg3-gzzs&usqp=CAU",
+    "rating": 4.3,
+    "name": "La Franklin"
+  },
+  {
+    "total_votes": 1081,
+    "total_reviews": 747,
+    "total_cost": 747,
+    "payment_methods": {
+      "card": false,
+      "cash": true,
+      "upi": false
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIojPZ3peGd9v-mzpCjfQYHBHalYQxKOkFbSZ8hWgQSNr3PBGFhXx9Fq-NZKl8jETItBU&usqp=CAU",
+    "rating": 2.9,
+    "name": "Golden Palace"
+  },
+  {
+    "total_votes": 255,
+    "total_reviews": 886,
+    "total_cost": 358,
+    "payment_methods": {
+      "card": false,
+      "cash": true,
+      "upi": false
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTz3dYzU_Zr5lKiJHlqKFzsSJZz7p5tdtOs7tKJWW0UOUR9LPP8nRToRHcAb0Bg3-gzzs&usqp=CAU",
+    "rating": 3.1,
+    "name": "Club House"
+  },
+  {
+    "total_votes": 1179,
+    "total_reviews": 541,
+    "total_cost": 625,
+    "payment_methods": {
+      "card": true,
+      "cash": false,
+      "upi": false
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfFzvGGGaDkwMhey51DfP015QbdilojyknuMYB3-U7xxvIBnf_3KOMAQiTwqvSlBjoyaQ&usqp=CAU",
+    "rating": 3.7,
+    "name": "The Spice Arena"
+  },
+  {
+    "total_votes": 1201,
+    "total_reviews": 570,
+    "total_cost": 370,
+    "payment_methods": {
+      "card": true,
+      "cash": false,
+      "upi": true
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "url": "https://images.unsplash.com/photo-1547573854-74d2a71d0826?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWVhbCUyMHRhYmxlfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+    "rating": 4.5,
+    "name": "ITC hotel"
+  },
+  {
+    "total_votes": 938,
+    "total_reviews": 565,
+    "total_cost": 124,
+    "payment_methods": {
+      "card": false,
+      "cash": true,
+      "upi": true
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBrktQinKdrZIVRaSAZSGz8MYYkmIrreBhK7t4eKIsRTpfCDEnXYuDpKMsCV8LBV_dV8Q&usqp=CAU",
+    "rating": 4.9,
+    "name": "VITS bbsr"
+  },
+  {
+    "total_votes": 202,
+    "total_reviews": 345,
+    "total_cost": 830,
+    "payment_methods": {
+      "card": false,
+      "cash": true,
+      "upi": false
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe6B7e5x9qmivaXdYbArA1dQios40AakxYJ3imqSg3oTC6h5ok34xM9dsMDnMK4diM8S4&usqp=CAU",
+    "rating": 4.8,
+    "name": "Vivanta Hotel"
+  },
+  {
+    "total_votes": 1089,
+    "total_reviews": 646,
+    "total_cost": 599,
+    "payment_methods": {
+      "card": true,
+      "cash": false,
+      "upi": true
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTsnXPFlHXVWXNaSqeg9BxCPaEQVIQkVUa5IFXZahPgCDhZDnXwVpdpndiZTJ8H16XSGY&usqp=CAU",
+    "rating": 2.5,
+    "name": "The Trident Hotel"
+  },
+  {
+    "total_votes": 1636,
+    "total_reviews": 477,
+    "total_cost": 436,
+    "payment_methods": {
+      "card": true,
+      "cash": false,
+      "upi": false
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9uDvw-NE44_iFs4qr1x6E6jfsOXrVronGmLB1cXqs_O61iloZsFQxbTwgxZtVRKx8wJw&usqp=CAU",
+    "rating": 3.5,
+    "name": "Pearl Restaurant"
+  },
+  {
+    "total_votes": 837,
+    "total_reviews": 796,
+    "total_cost": 608,
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi": true
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZB8s-iifBgLwzVQycjKcX8zCqw61uYckliSm0Y2Z1DPaRYfPFansJpm1eIO4YZSaICvI&usqp=CAU",
+    "rating": 4.3,
+    "name": "Barbique Nation"
+  },
+  {
+    "total_votes": 794,
+    "total_reviews": 318,
+    "total_cost": 299,
+    "payment_methods": {
+      "card": false,
+      "cash": true,
+      "upi": false
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ8faN63WO59cIRJ-RoXHPFbo--CoPKb8Iv9ZBXQ6De_zcAcpChxsfDPMnwNfyhs17QYU&usqp=CAU",
+    "rating": 4.1,
+    "name": "The Maharaja Club"
+  },
+  {
+    "total_votes": 311,
+    "total_reviews": 227,
+    "total_cost": 138,
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi": true
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-QLJlJGDZVKMx7y9fWahmXe8FyGMQsi30fCHiRgBz8LDUsZsS4xPGMf_aJx_jePhLWlw&usqp=CAU",
+    "rating": 4.2,
+    "name": "Upre Kitchen n Cafe"
+  }
+]

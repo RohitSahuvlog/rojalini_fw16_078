@@ -13,27 +13,43 @@
     {
       "title": "clean face",
       "done": false,
-      "id": 4
+      "id": 3
     },
     {
       "title": "have breakfast",
       "done": false,
-      "id": 5
+      "id": 4
     },
     {
       "title": "go to roof",
       "done": false,
-      "id": 6
+      "id": 5
     },
     {
       "title": "do exercise",
       "done": false,
-      "id": 7
+      "id": 6
     },
     {
       "title": "get some water",
       "done": false,
+      "id": 7
+    },
+    {
+      "title": "read",
+      "done": false,
       "id": 8
+    },
+    {
+      "title": "listen music",
+      "done": false,
+      "id": 9
+    },
+    {
+      "title": "go to work",
+      "done": false,
+      "id": 10
     }
+
   ]
 }
