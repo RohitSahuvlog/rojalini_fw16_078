@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+.header {
+  background-color: red;
+}
+.book{
+  display: grid;
+  grid-template-columns: repeat(2, 50%) ;
+}
+
+nav{
+  background-color: #fd9b95;
+  width: 50%;
+  height: 50px;
+  font-weight: bold;
+  margin: auto;
+  margin-top: 40px;
+
+}
+.n{
+  margin-left: 50px;
+  position: relative;
+  top: 10px;
+  margin-left: 20px;
+  text-decoration: none;
+
+
+}
+.np{
+  margin-left: 50px;
+  position: relative;
+  top: 10px;
+  margin-left: 20px;
+  text-decoration: none;
+  color: red;
+}
