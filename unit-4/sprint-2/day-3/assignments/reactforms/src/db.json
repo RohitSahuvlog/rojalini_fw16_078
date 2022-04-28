@@ -1,0 +1,22 @@
+{
+  "employee": [
+    {
+      "marry": false,
+      "name": "Rojalini",
+      "age": "23",
+      "address": "Odisha",
+      "dept": "IT",
+      "salary": "71000",
+      "id": 1
+    },
+    {
+      "name": "supriya",
+      "age": "13",
+      "address": "bbsr",
+      "dept": "IT",
+      "salary": "566600",
+      "married": true,
+      "id": 2
+    }
+  ]
+}

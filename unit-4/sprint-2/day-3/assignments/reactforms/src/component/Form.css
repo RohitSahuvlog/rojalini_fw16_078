@@ -1,0 +1,62 @@
+body{
+    color:rgb(17, 2, 53);
+}
+.container{
+    
+    width:50%;
+    margin: auto;
+    margin-top:50px;  
+    margin-bottom:50px;  
+}
+input{
+    width: 290px;
+    height: 35px;
+    margin-top:5px;
+    border: 2px solid ;
+    border: 2px solid rgb(17, 2, 53);
+    border-radius:5px;
+    color:rgb(17, 2, 53);
+    font-size:18px;
+    font-weight:bold;  
+}
+#form{
+    width:30%;
+    margin: auto;
+}
+select{
+    width: 290px;
+    height: 35px;
+    margin-top:5px;
+    border: 2px solid ;
+    border: 2px solid rgb(17, 2, 53);
+    border-radius:5px;
+    color:rgb(17, 2, 53);
+    font-size:18px;
+    font-weight:bold;
+}
+#married{
+    position:relative;
+    bottom: 25px;
+    right: 80px;
+    height: 19px;
+}
+#submit{
+    width: 40%;
+    margin-left: 50%;
+    background-color:rgb(17, 2, 53);
+    color: white;
+    margin-top: -30px;
+    
+}
+table{
+    text-align: center;
+    border: 1px solid;
+    width: 100%;
+}
+th,td{
+    border: 1px solid;
+}
+h1{
+    width: 20%;
+    margin: auto;
+}
