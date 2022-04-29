@@ -70,7 +70,6 @@ const Form = ({ handleName, handleNumber, handleMonth, handleYear,handleCvc }) =
         <div>
           <label>CARDHOLDER NAME</label> <br />
           <InputDiv>
-            <i class="fa-solid fa-user"></i>
             <input
               type="text"
               placeholder="Card holder name"
@@ -82,7 +81,6 @@ const Form = ({ handleName, handleNumber, handleMonth, handleYear,handleCvc }) =
         <div>
           <label>CARD NUMBER</label> <br />
           <InputDiv>
-            <i class="fa-solid fa-credit-card"></i>
             <input
               type="tel"
               placeholder="Card number"
@@ -95,7 +93,6 @@ const Form = ({ handleName, handleNumber, handleMonth, handleYear,handleCvc }) =
           <div>
             <label>EXPIRY MONTH</label> <br />
             <InputDiv>
-              <i class="fa-regular fa-calendar"></i>
               <input type="text" onChange={handleMonth} placeholder="month"/>
             </InputDiv>
           </div>
@@ -103,7 +100,6 @@ const Form = ({ handleName, handleNumber, handleMonth, handleYear,handleCvc }) =
           <div>
             <label>EXPIRY YEAR</label> <br />
             <InputDiv>
-              <i class="fa-regular fa-calendar"></i>
               <input type="text" onChange={handleYear} placeholder="year"/>
             </InputDiv>
           </div>
@@ -111,7 +107,6 @@ const Form = ({ handleName, handleNumber, handleMonth, handleYear,handleCvc }) =
           <div>
             <label>CVC</label> <br />
             <InputDiv>
-              <i class="fa-solid fa-lock"></i>
               <input type="text" onChange={handleCvc} placeholder="cvc"/>
             </InputDiv>
           </div>
