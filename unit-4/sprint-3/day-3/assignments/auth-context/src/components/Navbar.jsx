@@ -3,17 +3,15 @@ import styled from 'styled-components'
 import {AuthContext} from '../context/AuthContext'
 
 const Nav = styled.div`
-    display:flex;
-    width:100%;
-    height:100px;
-    background-color:black;
-    color:white;
+    margin-top: 1%;
 
-     button{
-        background-color:yellow;
+    button{
+        background-color: purple;
         font-weightL:500;
-        width:150px;
-        height:40px;
+        width:5%;
+        height: 30px;
+        justify-content: center;
+        margin: auto;
     }
 `
 

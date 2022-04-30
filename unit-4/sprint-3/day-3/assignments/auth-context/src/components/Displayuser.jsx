@@ -8,9 +8,9 @@ function Displayuser() {
   return (
     <div>
        <p> {isAuth?"User Is Logged In":"Please Login"}</p>
-      <p> {token!=""?`token : ${token}`:"Please Login"}</p> 
+      <p> {token !== ""?`token : ${token}`:"Please Login"}</p> 
     </div>
   )
 }
 
-export default Displayuser
+export default Displayuser;
