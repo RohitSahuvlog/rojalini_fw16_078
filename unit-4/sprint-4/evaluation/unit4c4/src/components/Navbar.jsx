@@ -7,13 +7,13 @@ export const Navbar = () => {
                 all the links in navbar,
       IMPORTANT: Link should match as mentioned in problem statement 
       */}
-      <Link to='/'>Home</Link>
-      <Link to='/about'>About</Link>
-      <Link to='/products'>Products</Link>
-      <Link to='/products/men'>Men</Link>
-      <Link to='/products/women'>Women</Link>
-      <Link to='/products/kids'>Kids</Link>
-      <Link to='/products/homedecor'>Home Decor</Link>
+      <Link to='/'>Home</Link>&nbsp;&nbsp;&nbsp;&nbsp;
+      <Link to='/about'>About</Link>&nbsp;&nbsp;&nbsp;&nbsp;
+      <Link to='/products'>Products</Link>&nbsp;&nbsp;&nbsp;&nbsp;
+      <Link to='/products/men'>Men</Link>&nbsp;&nbsp;&nbsp;&nbsp;
+      <Link to='/products/women'>Women</Link>&nbsp;&nbsp;&nbsp;&nbsp;
+      <Link to='/products/kids'>Kids</Link>&nbsp;&nbsp;&nbsp;&nbsp;
+      <Link to='/products/homedecor'>Home Decor</Link>&nbsp;&nbsp;&nbsp;&nbsp;
     </nav>
   );
 };
