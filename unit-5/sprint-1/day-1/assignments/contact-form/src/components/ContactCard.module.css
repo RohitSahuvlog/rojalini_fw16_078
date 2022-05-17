@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+.container{
+    width: 32%;
+    margin: auto;
+    padding: 1rem;
+    /* border-radius:0.5rem; */
+    background-color: white;
+     display: flex;
+     gap: 2rem;
+     margin-bottom:0.25rem ;
+     border-bottom: 1px solid gray;
+    border-bottom-left-radius: 0rem;
+    border-bottom-right-radius: 0rem;
+}
+.pp{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.data{
+    text-align: left;
+    color: gray;
+}
