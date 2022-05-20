@@ -12,5 +12,4 @@ const TimerInput = ({ setMin }) => {
     </div>
   );
 };
-
 export default TimerInput;

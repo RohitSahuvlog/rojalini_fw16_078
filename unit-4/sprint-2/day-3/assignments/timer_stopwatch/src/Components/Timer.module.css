@@ -7,6 +7,7 @@
   font-size: 60px;
   font-weight: 600;
 }
+
 .time > span:nth-child(2) {
   font-size: 40px;
   padding-left: 4px;
@@ -14,7 +15,7 @@
 
 .btn > button {
   margin: 0px 4px;
-  background-color: crimson;
+  background-color: rgb(190, 220, 20);
   color: #fff;
   outline: none;
   border: none;
@@ -27,8 +28,8 @@
 
 .btn > button:nth-child(2) {
   background-color: #fff;
-  outline: 2px solid crimson;
-  color: crimson;
+  outline: 2px solid rgb(190, 220, 20);
+  color: rgb(190, 220, 20);
 }
 
 .input {
@@ -37,7 +38,7 @@
 
 .input > input {
   border: none;
-  border-bottom: 2px solid crimson;
+  border-bottom: 2px solid rgb(190, 220, 20);
   font-size: 20px;
   outline: none;
   padding: 10px;

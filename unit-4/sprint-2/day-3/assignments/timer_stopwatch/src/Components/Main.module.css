@@ -27,8 +27,8 @@
 }
 
 .active {
-  color: crimson;
-  border-bottom: 2px solid crimson !important;
+  color: rgb(190, 220, 20);
+  border-bottom: 2px solid rgb(190, 220, 20) !important;
 }
 
 .main {
@@ -38,3 +38,4 @@
   justify-content: center;
   align-items: center;
 }
+
