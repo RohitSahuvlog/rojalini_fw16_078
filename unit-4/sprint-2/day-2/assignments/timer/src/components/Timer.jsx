@@ -17,7 +17,7 @@ const Stopwatch = ({initial,end}) => {
         return () => {
             clearInterval(id)
         }
-    },[])
+    }, [])
     return (
         <div>
           Timer : {timer}

@@ -1,14 +1,14 @@
 import React from 'react'
 import styles from "./Timer.module.css";
 
-const InputTimer = () => {
-    const {setSecond} 
+const InputTimer = (props) => {
+    const {setMin} = props
   return (
     <div>
       <input
          type="number"
          placeholder="Enter Seconds"
-         onChange={(item)=> setSecond(item.target.value)}
+         onChange={(item)=> setMin(Math.floor((item.target.value)/60))}
       
       />
     </div>
