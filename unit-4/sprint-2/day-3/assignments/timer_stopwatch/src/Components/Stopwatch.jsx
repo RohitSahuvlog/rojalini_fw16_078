@@ -1,65 +1,65 @@
-import React, { useEffect, useState } from "react";
-import styles from "./Timer.module.css";
+import React, {useEffect, useState} from 'react'
+import styles from "./Timer.module.css"
 
 const Stopwatch = () => {
-  const [min, setMin] = useState(0);
-  const [sec, setSec] = useState(0);
-  const [milisec, setMilisec] = useState(0);
-  const [timer, setTimer] = useState(false);
+  const[min, setMin] = useState(0);
+  const[second, setSecond] = useState(0);
+  const[miliSecond, setMiliSecond] = useState(0)
+  const[timer, setTimer] = useState(false);
 
   useEffect(() => {
-    let id = null;
-    if (timer) {
-      id = setInterval(() => {
-        if (milisec < 100) {
-          setMilisec((prevMs) => prevMs + 1);
+    let x = null;
+    if(timer){
+      x= setInterval(() => {
+        if(miliSecond < 100){
+          setMiliSecond((elem) => elem+1)
         }
-        if (milisec === 99) {
-          setMilisec(0);
-          if (sec < 59) {
-            setSec((prevSec) => prevSec + 1);
-          } else {
-            setMin((prevMin) => prevMin + 1);
-            setSec(0);
+        if(miliSecond == 99){
+          setMiliSecond(0)
+          if(second < 59 ){
+            setSecond((s)=> s + 1)
+          }else{
+            setMin((m) => m+1)
+            setSecond(0)
           }
         }
-      }, 10);
-    } else {
-      clearInterval(id);
+      }, 18)
+    }else{
+      clearInterval(x)
     }
-
-    return () => {
-      clearInterval(id);
-    };
-  }, [timer, sec, milisec]);
+    return () =>{
+      clearInterval(x)
+    }
+  }, [timer, second, miliSecond]);
+  
 
   return (
-    <>
-      <div className={styles.time}>
+    <div>
+      <h1 className={styles.timer} >
         <span>{min < 10 ? `0${min}` : min}</span>m:
-        <span>{sec < 10 ? `0${sec}` : sec}</span>s:
-        <span>{milisec < 10 ? `0${milisec}` : milisec}</span>ms
-      </div>
+        <span>{second < 10 ? `0${second}` : second}</span>s:
+        <span>{miliSecond < 10 ? `0${miliSecond}` :miliSecond}</span>ms:
+      </h1>
       <div className={styles.btn}>
         {timer ? (
-          <button onClick={() => setTimer(false)}>Stop</button>
-        ) : (
-          <button onClick={() => setTimer(true)}>Start</button>
-        )}
-
-        <button
-          onClick={() => {
-            setMin(0);
-            setSec(0);
-            setMilisec(0);
+          <button onClick={() =>{
             setTimer(false);
-          }}
-        >
-          Reset
-        </button>
+          } }>Stop</button>
+        ): (<button onClick={() =>{
+          setTimer(true);
+        } }>Start</button>
+        )}
+        
+        <button  onClick={() =>{
+            
+            setMin(0)
+            setSecond(0)
+            setMiliSecond(0)
+            setTimer(false)
+          } }>Reset</button>
       </div>
-    </>
-  );
+    </div>
+  )
 };
 
 export default Stopwatch;

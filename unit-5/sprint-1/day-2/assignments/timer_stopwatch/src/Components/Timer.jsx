@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import InputTimer from './InputTimer';
+import styles from "./Timer.module.css"
 
  const Timer = () => {
     const[min, setMin] = useState(5);
@@ -24,7 +25,7 @@ import InputTimer from './InputTimer';
           }
         }
         
-      },1000);
+      },500);
     }
     else{
       clearInterval(x)
@@ -38,7 +39,7 @@ import InputTimer from './InputTimer';
     <div>
       {
         input ? (<InputTimer setMin={setMin}/>):(
-          <h1 onClick={() =>{
+          <h1 className={styles.timer} onClick={() =>{
             setInput(true)
             setTimer(false)
             setSecond(0)
@@ -51,7 +52,7 @@ import InputTimer from './InputTimer';
         )
       }
 
-      <div>
+      <div className={styles.btn}>
         {timer ? (
           <button onClick={() =>{
             setTimer(false);

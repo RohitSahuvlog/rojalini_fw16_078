@@ -1,11 +1,10 @@
-
 import './App.css';
-import { Timer } from './Components/Timer';
+import Tictactoe from './components/Tictactoe';
 
 function App() {
   return (
     <div className="App">
-      <Timer/>
+      <Tictactoe/>
     </div>
   );
 }
