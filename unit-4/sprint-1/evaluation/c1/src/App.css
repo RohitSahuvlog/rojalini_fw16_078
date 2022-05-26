@@ -1,0 +1,52 @@
+
+.container{
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 20px;
+}
+
+.btn{
+  height: 23px;
+  width: 23px;
+  border-radius: 50%;
+  border: none;
+  color: white;
+  background-color: #02213b;
+}
+.btn-div{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  border: 1px solid #02213b;
+  height: 30px;
+}
+.cart{
+  background-color: #02213b;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  width: 100%;
+  padding: 5px 0;
+}
+
+.grocery{
+  border: 1px solid #02213b;
+}
+
+.upper{
+  display: flex;
+  
+}
+
+.price-div{
+  display: flex;
+  gap: 30px;
+}
+.price-div p:last-child{
+  text-decoration: line-through;
+}
+.upper p{
+  background-image: url('https://www.jiomart.com/assets/version1649101673/smartweb/images/icons/offer_bg.svg');
+  background-repeat: no-repeat;
+  color: white;
+}
